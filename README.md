@@ -1,6 +1,6 @@
 # Is Texture Predictive for Age and Sex in Brain MRI?
 This repository contains the code for the paper *Is Texture Predictive for Age and Sex in Brain MRI?*
-([OpenReview](https://openreview.net/forum?id=BJxgXfab94)).
+([OpenReview](https://arxiv.org/abs/1907.10961)).
 
 We presented this as a [poster](https://github.com/pawni/MedicalBagNet/blob/master/poster.pdf) at MIDL 2019.
 
@@ -46,6 +46,6 @@ author={Nick Pawlowski and Ben Glocker},
 booktitle={International Conference on Medical Imaging with Deep Learning -- Extended Abstract Track},
 address={London, United Kingdom},
 year={2019},
-url={https://openreview.net/forum?id=BJxgXfab94},
+url={https://arxiv.org/abs/1907.10961},
 }
 ```
