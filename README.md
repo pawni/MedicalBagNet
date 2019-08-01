@@ -1,6 +1,6 @@
 # Is Texture Predictive for Age and Sex in Brain MRI?
 This repository contains the code for the paper *Is Texture Predictive for Age and Sex in Brain MRI?*
-([OpenReview](https://arxiv.org/abs/1907.10961)).
+([OpenReview](https://openreview.net/forum?id=BJxgXfab94), [arXiv](https://arxiv.org/abs/1907.10961)).
 
 We presented this as a [poster](https://github.com/pawni/MedicalBagNet/blob/master/poster.pdf) at MIDL 2019.
 
